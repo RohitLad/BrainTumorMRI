@@ -6,5 +6,5 @@ jupyter
 Keras>=2
 Pillow
 nibabel
-tensorflow==1.15.0
+tensorflow==2.5.1
 h5py
